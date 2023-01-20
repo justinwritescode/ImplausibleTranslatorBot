@@ -1,0 +1,35 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImplausibleTranslatorBot", "ImplausibleTranslatorBot.csproj", "{0DF8B146-3FCB-4E54-978E-7EA1882E8053}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{235FD35C-F107-4647-825A-9600D8377BE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Local|Any CPU = Local|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Staging|Any CPU = Staging|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Testing|Any CPU = Testing|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DF8B146-3FCB-4E54-978E-7EA1882E8053}.Local|Any CPU.ActiveCfg = Local|Any CPU
+		{0DF8B146-3FCB-4E54-978E-7EA1882E8053}.Local|Any CPU.Build.0 = Local|Any CPU
+		{0DF8B146-3FCB-4E54-978E-7EA1882E8053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DF8B146-3FCB-4E54-978E-7EA1882E8053}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DF8B146-3FCB-4E54-978E-7EA1882E8053}.Staging|Any CPU.ActiveCfg = Staging|Any CPU
+		{0DF8B146-3FCB-4E54-978E-7EA1882E8053}.Staging|Any CPU.Build.0 = Staging|Any CPU
+		{0DF8B146-3FCB-4E54-978E-7EA1882E8053}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DF8B146-3FCB-4E54-978E-7EA1882E8053}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DF8B146-3FCB-4E54-978E-7EA1882E8053}.Testing|Any CPU.ActiveCfg = Testing|Any CPU
+		{0DF8B146-3FCB-4E54-978E-7EA1882E8053}.Testing|Any CPU.Build.0 = Testing|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0DF8B146-3FCB-4E54-978E-7EA1882E8053} = {235FD35C-F107-4647-825A-9600D8377BE3}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB200546-CE4A-4E61-B7B8-7B9AE303471D}
+	EndGlobalSection
+EndGlobal
